@@ -1,0 +1,18 @@
+{
+  "name": "mus-word-counter",
+  "version": "1.0.0",
+  "description": "A simple word counter thats counts the number of words a paragraph contains",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Muhammad Usama",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
