@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let wordsCounter = (para: string): number[] => {
   para = para.trim(); // removes leadind /trailing white spaces

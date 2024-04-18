@@ -1,6 +1,6 @@
 {
   "name": "muq-word-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple word counter thats counts the number of words a paragraph contains",
   "main": "index.js",
   "type": "module",
